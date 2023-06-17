@@ -2,56 +2,50 @@
 layout: default
 ---
 
-# 1. The Problem
+# 1. The problems in today's blockchain
 
-1. Existing Blockchains at Risk of Quantum Attacks
-2. Blockchains are Low Throughput and Non-Scalable
-3. Blockchain Transactions Compromise Privacy
+1. Not quantum secure
+2. Low throughput, no scalablility
+3. No privacy
+4. No compliance
 
-# 2. Our Solution
+# 2. The solution
 
-A quantum-resistant, high-throughput, privacy-by-default and regulatory friendly blockchain that solves the main problems of the existing blockchain technology, unlocking its full potential while gaining public acceptance.
+A new public blockchain that is quantum-resistant, high throughput, privacy by default, and regulatory friendly.
 
-# 3. Our Blockchain
+# 3. The goal
 
-1. Secured for the next 50 years of quantum computing era
-2. Processes up to 60,000 transactions per second
-3. Supports HFT financial trading, and large scale web2 apps
-4. Makes privacy by default and regulatory friendly
+1. Maintain security over the next 50 years of quantum computing progression.
+2. Process ~60,000 TPS, supports high frequency trading and large scale web2 apps.
 
-# 4. Our Proposition
+# 4. The building blocks
 
-## 4.1. Quantum-resistant
+1. **Quantum security:** by CRYSTAL-Dilithium, a lattice based, high performance digital signature algorithm.
 
-We use CRYSTAL-Dilithium, a lattice based, high performance DSA that provides quantum-robustness.
+2. **Transaction privacy:** by lattice-based zero-knowledge proof (ZKP) primitives to mask the transaction information.
 
-## 4.2. Privacy-by-default
+3. **High throughput:** by an optimized Byzantine Fault Tolerant Protocol that produce blocks by multiple leaders in parallel.
 
-We preserve transaction privacy using lattice-based zero-knowledge proof (ZKP) primitives to mask its information while still letting the entire network to verify its legitimacy.
+4. **Programmability:** by a zk-friendly virtual machine (zkWASM) that allows developers to write arbitrary application logic with the programming language they prefer: C, C++, Java, Rust, and even Solidity.
 
-## 4.3. Revolutionary Technology
+5. **Compliance:** by compressing and encrypting transaction data (and meta data) and allow identity based threshold decrypting (Multi Party Computation for encryption and decryption).
 
-We push the research and technology forefronts in the quest of building a blockchain: post-quantum cryptography, high throughput consensus protocol, privacy features, and PQ ZK virtual machine.
-
-## 4.4. High-throughput
-
-An optimized Byzantine Fault Tolerant Consensus Protocol, MIR BFT that achieves high throughput.
-
-## 4.5. Virtual Machine
-
-We provide a Virtual Machine (VM) allowing developers to program any business logic imaginable, enabling its application possibilities in both crypto and traditional industries.
-
-# 5. Our Whitepaper
+# 5. The whitepaper (work in progress)
 
 <a href="https://img1.wsimg.com/blobby/go/ae387ab4-24fd-4168-87ae-7aab2ac70271/downloads/pqchain.pdf?ver=1686634589004" target="_blank">PQChain Whitepaper (pdf)</a>
 
-- A PQ blockchain built with the highest-security level
-- DSA CRYSTAL-Dilithium as 1st candidate, Falcon as 2nd
-- High throughput via MIR-BFT consensus protocol
-- Transaction privacy via ZKP constructed on Dilithium or Falcon
-- Virtual Machine (VM) zkWASM for programming arbitrary business logic
-- Regulatory compliance with encryption/decryption of specific data and meta data
-
 # 6. Social
 
-Email us at: [xxxx@pqchain.org](mailto:xxxx@pqchain.org)
+Twitter
+
+Discord
+
+Telegram
+
+# 7. Talent wanted
+
+This is a research intensive, engineering intensive endeavor, reach out to us if you want to become an early contributor.
+
+# 8. Contract
+
+Email us at: [contact@pqchain.org](mailto:contact@pqchain.org)
