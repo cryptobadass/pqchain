@@ -4,7 +4,7 @@ layout: default
 
 # The problems
 
-The state of the art in blockchain:
+Current blockchains are:
 
 1. Not quantum secure
 2. Low throughput, no scalablility
