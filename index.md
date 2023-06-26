@@ -29,23 +29,23 @@ A new public blockchain that is:
 
 **Quantum security:**
 
-by CRYSTAL-Dilithium, a lattice based, high performance DSA.
+CRYSTAL-Dilithium, a lattice based, high performance DSA.
 
 **Transaction privacy:**
 
-by lattice-based zero-knowledge proof (ZKP).
+Lattice-based zero-knowledge proof (ZKP).
 
 **High throughput:**
 
-by parallelized Byzantine Fault Tolerant Protocol.
+Parallelized Byzantine Fault Tolerant Protocol.
 
 **Programmability:**
 
-by zk-friendly virtual machine (zkWASM) that allow developers to write arbitrary application logic with any programming languages: C, C++, Java, Rust, Solidity etc.
+Zk-friendly virtual machine (zkWASM) that allow developers to write arbitrary application logic with any programming languages: C, C++, Java, Rust, Solidity etc.
 
 **Compliance:**
 
-by encrypting transaction data (and meta data) and allow identity based threshold decrypting (Multi Party Computation for encryption and decryption).
+Encrypting transaction data (and meta data) and allow identity based threshold decrypting (Multi Party Computation for encryption and decryption).
 
 # The whitepaper (work in progress)
 
