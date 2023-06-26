@@ -13,7 +13,12 @@ Current blockchains are:
 
 # The solution
 
-A new public blockchain that is quantum-resistant, high throughput, privacy by default, and regulatory friendly.
+A new public blockchain that is:
+
+1. quantum-resistant
+2. high throughput
+3. privacy preserving
+4. compliance
 
 # The goal
 
@@ -22,15 +27,25 @@ A new public blockchain that is quantum-resistant, high throughput, privacy by d
 
 # The building blocks
 
-1. **Quantum security:** by CRYSTAL-Dilithium, a lattice based, high performance digital signature algorithm.
+**Quantum security:**
 
-2. **Transaction privacy:** by lattice-based zero-knowledge proof (ZKP) primitives to mask the transaction information.
+by CRYSTAL-Dilithium, a lattice based, high performance DSA.
 
-3. **High throughput:** by an optimized Byzantine Fault Tolerant Protocol that produce blocks by multiple leaders in parallel.
+**Transaction privacy:**
 
-4. **Programmability:** by a zk-friendly virtual machine (zkWASM) that allows developers to write arbitrary application logic with the programming language they prefer: C, C++, Java, Rust, and even Solidity.
+by lattice-based zero-knowledge proof (ZKP).
 
-5. **Compliance:** by compressing and encrypting transaction data (and meta data) and allow identity based threshold decrypting (Multi Party Computation for encryption and decryption).
+**High throughput:**
+
+by parallelized Byzantine Fault Tolerant Protocol.
+
+**Programmability:**
+
+by zk-friendly virtual machine (zkWASM) that allow developers to write arbitrary application logic with any programming languages: C, C++, Java, Rust, Solidity etc.
+
+**Compliance:**
+
+by encrypting transaction data (and meta data) and allow identity based threshold decrypting (Multi Party Computation for encryption and decryption).
 
 # The whitepaper (work in progress)
 
