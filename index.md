@@ -49,7 +49,7 @@ Encrypting transaction data (and meta data) and allow identity based threshold d
 
 # The whitepaper (work in progress)
 
-<a href="https://img1.wsimg.com/blobby/go/ae387ab4-24fd-4168-87ae-7aab2ac70271/downloads/pqchain.pdf?ver=1686634589004" target="_blank">PQChain Whitepaper (pdf)</a>
+<a href="https://www.pqchain.org/docs/pqchain.pdf" target="_blank">PQChain Whitepaper (pdf)</a>
 
 # Testnet (early alpha)
 
