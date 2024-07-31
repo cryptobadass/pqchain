@@ -55,6 +55,12 @@ Encrypting transaction data (and meta data) and allow identity based threshold d
 
 <a href="https://explorer.pqchain.org/" target="_blank">Explorer</a>
 
+# Wallet
+
+<a href="https://www.pqchain.org/files/PQC_Wallet_MacOS_x86_64" target="_blank">PQC_Wallet_MacOS_x86_64</a>
+
+<a href="https://www.pqchain.org/files/PQC_Wallet_Ubuntu_x86_64" target="_blank">PQC_Wallet_Ubuntu_x86_64</a>
+
 # Social
 
 Twitter
