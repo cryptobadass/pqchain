@@ -49,17 +49,17 @@ Encrypting transaction data (and meta data) and allow identity based threshold d
 
 # The whitepaper (work in progress)
 
-<a href="https://www.pqchain.org/docs/pqchain.pdf" target="_blank">PQChain Whitepaper (pdf)</a>
+<a href="https://www.pq.cash/docs/pqcash.pdf" target="_blank">PQCash Whitepaper (pdf)</a>
 
 # Testnet (early alpha)
 
-<a href="https://explorer.pqchain.org/" target="_blank">Explorer</a>
+<a href="https://explorer.pq.cash/" target="_blank">Explorer</a>
 
 # Wallet
 
-<a href="https://www.pqchain.org/files/PQC_Wallet_MacOS_x86_64" target="_blank">PQC_Wallet_MacOS_x86_64</a>
+<a href="https://www.pq.cash/files/PQC_Wallet_MacOS_x86_64" target="_blank">PQC_Wallet_MacOS_x86_64</a>
 
-<a href="https://www.pqchain.org/files/PQC_Wallet_Ubuntu_x86_64" target="_blank">PQC_Wallet_Ubuntu_x86_64</a>
+<a href="https://www.pq.cash/files/PQC_Wallet_Ubuntu_x86_64" target="_blank">PQC_Wallet_Ubuntu_x86_64</a>
 
 # Social
 
@@ -75,4 +75,4 @@ This is a research intensive, engineering intensive endeavor, reach out to us if
 
 # Contract
 
-Email us at: [contact@pqchain.org](mailto:contact@pqchain.org)
+Email us at: [contact@pq.cash](mailto:contact@pq.cash)
